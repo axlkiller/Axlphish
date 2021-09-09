@@ -38,7 +38,7 @@
  pkg install git
 ```
 ```
- git clone git://github.com/AxLKiller/AxLPhish.git
+ git clone git://github.com/axlkiller/AxLPhish.git
 ```
 ```
 chmod +x *
