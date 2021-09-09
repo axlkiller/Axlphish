@@ -23,7 +23,6 @@
 - Multiple Hosting options
   - `Localhost`
   - `Ngrok`
-
 ### Follow Me :
 <p align="left">
   <a href="https://github.com/AxLKiller" target="_blank"><img src="https://img.shields.io/badge/Github-AxL--Killer-green?style=for-the-badge&logo=github"></a>
