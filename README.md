@@ -16,3 +16,17 @@
 <p align="center">
 <img src="https://img.shields.io/badge/AxL-Killer-green?style=for-the-badge">
 </p>
+
+
+- Latest Facebook login pages.
+- URL support 
+- Multiple Hosting options
+  - `Localhost`
+  - `Ngrok`
+
+### Follow Me :
+<p align="left">
+  <a href="https://github.com/AxLKiller" target="_blank"><img src="https://img.shields.io/badge/Github-AxL--Killer-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/axl.killet" target="_blank"><img src="https://img.shields.io/badge/Instagram-Gokul-red?style=for-the-badge&logo=instagram"></a><br/>
+  <a href="https://facebook.com/axlkiller.fb" target="_blank"><img src="https://img.shields.io/badge/Facebook-Gokul-blue?style=for-the-badge&logo=facebook"></a>
+</p>
