@@ -255,11 +255,11 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Designer ${RED}:  ${ORANGE}Gokul Mahato ${RED}[ ${ORANGE}AxL Killer ${RED}]
+		${GREEN}Designer ${RED}:  ${ORANGE}Gokul ${RED}[ ${ORANGE}AxL Killer ${RED}]
 		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/AxLKiller
 		${GREEN}Social   ${RED}:  ${CYAN}https://instagram.com/axl.killer
 		${GREEN}Version  ${RED}:  ${ORANGE}0.1
-		${REDBG}${WHITE} Thanks : Adi1090x,MoisesTapia,ThelinuxChoice
+		${REDBG}${WHITE} Thanks : AxL Army
 								   ${RESETBG}
 		${RED}[${WHITE}00${RED}]${ORANGE} Main Menu     ${RED}[${WHITE}99${RED}]${ORANGE} Exit
 	EOF
