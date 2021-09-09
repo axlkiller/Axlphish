@@ -47,7 +47,7 @@
 - cd AxLPhish
 ```
 ```
-- bash AxLPhish.sh
+- bash Axlphish.sh
 ```
 
 
