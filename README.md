@@ -40,6 +40,9 @@
 ```
  git clone git://github.com/AxLKiller/AxLPhish.git
 ```
+```
+chmod +x *
+```
 
 
 ### To Run
