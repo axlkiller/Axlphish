@@ -3,7 +3,7 @@
 ##   AxLPhish 	: 	New Social Phishing Tool
 ##   Editor 	: 	Killer 
 ##   Version 	: 	0.1
-##   Github 	: 	https://github.com/AxLKiller
+##   Github 	: 	https://github.com/axlkiller
 
 ##   THANKS TO :
 ##   Aditya Shakya - https://github.com/adi1090x
@@ -255,7 +255,7 @@ about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
 		${WHITE}Designer ${WHITE}:  ${GREEN}Gokul Mahato ${WHITE}[ ${RED}AxL Killer ${WHITE}]
-		${WHITE}Github   ${WHITE}:  ${BLUE}https://github.com/AxLKiller
+		${WHITE}Github   ${WHITE}:  ${BLUE}https://github.com/axlkiller
 		${WHITE}Social   ${WHITE}:  ${BLUE}https://instagram.com/axl.killer
 		${WHITE}Version  ${WHITE}:  ${GREEN}0.1
 
