@@ -55,6 +55,12 @@ chmod +x *
 ```
 
 
+### Notice
+If your created link is not working don't panic. just `Restart` your `Termux`. The link will work properly.
+
+
+Thank you 😊
+
 
 ### Follow Me :
 <p align="left">
