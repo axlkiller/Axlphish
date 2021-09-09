@@ -20,7 +20,7 @@
 
 - Latest Facebook login pages.
 - URL support 
-- Multiple Hosting options
+- Multiple Hosting Support
   - `Localhost`
   - `Ngrok`
 
