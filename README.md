@@ -27,27 +27,28 @@
 
 ### Install
 
+
 ```
-- apt update -y
-```
-```
-- apt upgrade -y
+ apt update -y
 ```
 ```
-- pkg install git
+ apt upgrade -y
 ```
 ```
-- git clone git://github.com/AxLKiller/AxLPhish.git
+ pkg install git
+```
+```
+ git clone git://github.com/AxLKiller/AxLPhish.git
 ```
 
 
 ### To Run
 
 ```
-- cd AxLPhish
+ cd AxLPhish
 ```
 ```
-- bash Axlphish.sh
+ bash Axlphish.sh
 ```
 
 
