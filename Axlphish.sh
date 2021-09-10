@@ -158,9 +158,9 @@ banner() {
 banner_small() {
 	cat <<- EOF
                 ${WHITE}
-		${WHITE}  ░█▀█░█░█░█░░░█▀█░█░█░▀█▀░█▀▀░█░█
-		${GREEN}  ░█▀█░▄▀▄░█░░░█▀▀░█▀█░░█░░▀▀█░█▀█
-		${GREEN}  ░▀░▀░▀░▀░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀${WHITE} 0.1
+		${WHITE}░█▀█░█░█░█░░░█▀█░█░█░▀█▀░█▀▀░█░█
+		${GREEN}░█▀█░▄▀▄░█░░░█▀▀░█▀█░░█░░▀▀█░█▀█
+		${GREEN}░▀░▀░▀░▀░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀${WHITE} 0.1
 	EOF
 }
 
@@ -245,14 +245,14 @@ install_ngrok() {
 
 ## Exit message
 msg_exit() {
-	{ clear; banner; echo; }
+	{ clear; banner_small; echo; }
 	echo -e "${GREENBG}${WHITE} Thank you for using. I hope this tool is useful for you.${RESETBG}\n"
 	{ reset_color; exit 0; }
 }
 
 ## About
 about() {
-	{ clear; banner; echo; }
+	{ clear; banner_small; echo; }
 	cat <<- EOF
 		${WHITE}Designer ${WHITE}:  ${GREEN}Gokul Mahato ${WHITE}[ ${RED}AxL Killer ${WHITE}]
 		${WHITE}Github   ${WHITE}:  ${BLUE}https://github.com/AxLKiller
@@ -362,7 +362,7 @@ start_localhost() {
 
 ## Tunnel selection
 tunnel_menu() {
-	{ clear; banner; }
+	{ clear; banner_small; }
 	cat <<- EOF
 
 
