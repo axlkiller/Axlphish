@@ -493,7 +493,7 @@ ${WHITE}(${WHITE}13${WHITE})${GREEN} Wordpress
 ${WHITE}(${WHITE}14${WHITE})${GREEN} Ebay
 ${WHITE}(${WHITE}15${WHITE})${GREEN} Paypal
 
- ${WHITE}(${WHITE}99${WHITE})${GREEN} About  ${WHITE}(${WHITE}00${WHITE})${GREEN} Exit
+ ${WHITE}(${WHITE}00${WHITE})${GREEN} About  ${WHITE}(${WHITE}99${WHITE})${GREEN} Exit
 	EOF
 	
 
