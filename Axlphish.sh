@@ -1,6 +1,6 @@
 #!/bin/bash
 
-##   AxLPhish 	: 	New Social Phishing Tool
+##   AxLPhish 	: 	Automatic Phishing Tool
 ##   Editor 	: 	Killer 
 ##   Version 	: 	0.1
 ##   Github 	: 	https://github.com/axlkiller
