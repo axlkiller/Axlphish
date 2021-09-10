@@ -10,16 +10,18 @@
   <img src="https://img.shields.io/github/license/axlkiller/AxLPhish?&style=for-the-badge">
   <img src="https://img.shields.io/github/stars/axlkiller/AxLPhish?color=cyan&style=for-the-badge">
   <img src="https://img.shields.io/github/issues/axlkiller/AxLPhish?color=magenta&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/axlkiller/AxLPhish?color=aquamarine&style=for-the-badge">
-</p>
-<br/>
-<p align="center">
+  <img src="https://img.shields.io/github/forks/axlkiller/AxLPhish?color=aquamarine&style=for-the-badge"><br/>
 <img src="https://img.shields.io/badge/AxL Killer-Killer?color="#E2F516" style=for-the-badge">
 </p>
 
 
+
+### About
+
 - Latest Facebook login pages.
-- URL support 
+- Instagram login pages.
+- Gmail login pages.
+- URL support `(99% work)` 
 - Multiple Hosting Support
   - `Localhost`
   - `Ngrok`
