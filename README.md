@@ -58,7 +58,7 @@ chmod +x *
 
 
 ### Notice
-If your created link is not working don't panic. just `Restart` your `Termux` and create Phishing link again. The link will work properly.
+If your created link is not working don't panic. just Re-generat your `Link`. Then link will work properly.
 
 
 Thank you 😊
