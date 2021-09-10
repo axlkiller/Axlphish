@@ -6,11 +6,11 @@
 ![logo](https://user-images.githubusercontent.com/88760257/132611406-91e22513-31e9-4603-9f3b-385f8daa4233.png)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-0.1-lime?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/axlkiller/AxLPhish?&style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/axlkiller/AxLPhish?color=cyan&style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/axlkiller/AxLPhish?color=magenta&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/axlkiller/AxLPhish?color=aquamarine&style=for-the-badge"><br/>
+  <img src="https://img.shields.io/badge/Version-0.5-lime?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/axlkiller/Axlphish?&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/axlkiller/Axlphish?color=cyan&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/axlkiller/Axlphish?color=magenta&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/axlkiller/Axlphish?color=aquamarine&style=for-the-badge"><br/>
 <img src="https://img.shields.io/badge/AxL Killer-Killer?color="#E2F516" style=for-the-badge">
 </p>
 
@@ -50,7 +50,7 @@ chmod +x *
 ### To Run
 
 ```
- cd AxLPhish
+ cd Axlphish
 ```
 ```
  bash Axlphish.sh
