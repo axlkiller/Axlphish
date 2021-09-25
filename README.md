@@ -16,7 +16,7 @@
 
 
 
-### About
+## About
 
 - Latest Facebook login pages.
 - Instagram login pages.
@@ -27,7 +27,7 @@
   - `Ngrok`
 
 
-### Install
+## Install
 
 
 ```
@@ -47,7 +47,7 @@ chmod +x *
 ```
 
 
-### To Run
+## To Run
 
 ```
  cd Axlphish
@@ -57,18 +57,22 @@ chmod +x *
 ```
 
 
-### Screenshots
 
-![Screenshot-1](https://github.com/axlkiller/Axlphish/raw/main/.imgs/Screenshot%201.jpg)![Screenshot-2](https://github.com/axlkiller/Axlphish/raw/main/.imgs/Screenshot%202.jpg)![Screenshot-3](https://github.com/axlkiller/Axlphish/raw/main/.imgs/Screenshot%203.jpg)
+### Screenshot-1
+![Screenshot-1](https://github.com/axlkiller/Axlphish/raw/main/.imgs/Screenshot%201.jpg)
+### Screenshot-2
+![Screenshot-2](https://github.com/axlkiller/Axlphish/raw/main/.imgs/Screenshot%202.jpg)
+### Screenshot-3
+![Screenshot-3](https://github.com/axlkiller/Axlphish/raw/main/.imgs/Screenshot%203.jpg)
 
-### Notice
+## Notice
 If your created link is not working don't panic. just Re-generat your `Link`. Then link will work properly.
 
 
 Thank you 😊
 
 
-### Follow Me :
+## Follow Me :
 <p align="left">
   <a href="https://github.com/axlkiller" target="_blank"><img src="https://img.shields.io/badge/Github-AxL--Killer-silver?style=for-the-badge&logo=github"></a><br/>
   <a href="https://www.instagram.com/axl.killer" target="_blank"><img src="https://img.shields.io/badge/Instagram-Gokul-red?style=for-the-badge&logo=instagram"></a><br/>
