@@ -59,7 +59,7 @@ chmod +x *
 
 ### Screenshots
 
-![Screenshot-1](https://github.com/axlkiller/Axlphish/raw/main/.imgs/Screenshot%201.jpg)[Screenshot-2](https://github.com/axlkiller/Axlphish/raw/main/.imgs/Screenshot%202.jpg)[Screenshot-3](https://github.com/axlkiller/Axlphish/raw/main/.imgs/Screenshot%203.jpg)
+![Screenshot-1](https://github.com/axlkiller/Axlphish/raw/main/.imgs/Screenshot%201.jpg)![Screenshot-2](https://github.com/axlkiller/Axlphish/raw/main/.imgs/Screenshot%202.jpg)![Screenshot-3](https://github.com/axlkiller/Axlphish/raw/main/.imgs/Screenshot%203.jpg)
 
 ### Notice
 If your created link is not working don't panic. just Re-generat your `Link`. Then link will work properly.
